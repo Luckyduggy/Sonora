@@ -1,2 +1,2 @@
 # Sonora
-Very simple mp3player
+Very simple mp3player application
