@@ -111,7 +111,3 @@ Feel free to open an [issue](https://github.com/Luckyduggy/Sonora/issues) or sub
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Made with ❤️ and C
